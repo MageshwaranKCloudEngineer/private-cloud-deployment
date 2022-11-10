@@ -15,7 +15,7 @@ press enter, it will install networking tools and follow step 2
 
 now all we need to do is open up a new window for our web browser and we want to type in 
 
-Step 4:- http://your ip number 
+Step 4:- http:// your ip number 
 
 Now you should come to the create an admin account page so first up let's create a username and a password and you can see you can install recommended apps which include calendar contacts, talk mail, and collaborative editing so i'm gonna leave that ticked and i'm gonna click on finish setup. Now at this step guys it does take a few minutes depending on how fast your system is and next cloud will download a bunch of stuff so be patient give it some time maybe grab a cup of coffee and you should be up and running soon all right. So once all that went through, you should come to the screen right here. It's basically like a presentation of what Next Cloud is about, so I'm going to click on this next arrow and you can see it'll give you some information, and so on click on next again, you also get the ability to access more than 100 apps in the Next Cloud app store, which is quite a lot.
 
